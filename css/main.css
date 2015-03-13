@@ -10,10 +10,16 @@ header{
 	background-color: #e7001d;
 }
 
+h1,
+h2{
+	margin:0;
+}
+
 p{
 	text-align: center;
 	font-size: 0.75em;
 	color: white;
+	margin:0;
 }
 
 .paragraph{
