@@ -1,17 +1,28 @@
 html {
 	box-sizing: border-box;
+	font-family: 'Noto Sans', sans-serif;
 }
 
 *, *::before, *::after {
 	box-sizing: inherit;
 }
 
-header{
+.header-bg{
 	background-color: #e7001d;
 }
 
 h1,
-h2{
+h2,
+h3{
+	margin:0;
+	text-align: center;
+}
+
+ol{
+	color: white;
+}
+
+body{
 	margin:0;
 }
 
@@ -20,26 +31,71 @@ p{
 	font-size: 0.75em;
 	color: white;
 	margin:0;
+	font-style: italic;
 }
 
 .paragraph{
 	text-align: left;
 	font-size: 1em;
 	color: black;
+	font-style: normal;
 }
 
 .one{
 	background-color: #e4c22a;
+	margin:0;
 }
 
 .two{
 	background-color: black;
+	margin:0;
 }
 
 .three{
 	background-color: #bc0017;
+	margin:0;
 }
 
 .four{
 	background-color: #e4c22a;
+	margin:0;
+}
+
+img{
+	margin: 0 auto;
+	width: 49.3%;
+	display: inline;
+}
+
+.no-image{
+	margin:0;
+	width: 100%;
+	display: block;
+}
+
+.white{
+	color:white;
+	font-style: normal;
+	text-decoration: none;
+}
+
+.underline{
+	text-decoration: underline;
+}
+
+footer{
+	background-color: black;
+	font-size: 0.75em
+}
+
+li{
+	list-style: none;
+	float: left;
+	width: 50%;
+}
+
+nav{
+	background-color: #222222;
+	overflow: hidden;
+	font-size: 1.25em;
 }
