@@ -1,10 +1,39 @@
 html {
 	box-sizing: border-box;
-	font-family: 'Merriweather', serif;
-	margin: 0;
-	padding: 0;
 }
 
 *, *::before, *::after {
 	box-sizing: inherit;
+}
+
+header{
+	background-color: #e7001d;
+}
+
+p{
+	text-align: center;
+	font-size: 0.75em;
+	color: white;
+}
+
+.paragraph{
+	text-align: left;
+	font-size: 1em;
+	color: black;
+}
+
+.one{
+	background-color: #e4c22a;
+}
+
+.two{
+	background-color: black;
+}
+
+.three{
+	background-color: #bc0017;
+}
+
+.four{
+	background-color: #e4c22a;
 }
