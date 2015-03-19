@@ -40,6 +40,7 @@ header p{
 ol{
 	color: white;
 	margin: 0;
+	padding: 0;
 }
 
 body{
@@ -114,7 +115,9 @@ footer{
 li{
 	list-style: none;
 	width: 50%;
-	text-align: left;
+	text-align: center;
+	display: block;
+	border: 1px solid black;
 }
 
 li:hover{
@@ -123,6 +126,8 @@ li:hover{
 
 nav a{
 	display: block;
+	margin: 0;
+	padding: 0.5em 0;
 }
 
 .float-left{
@@ -138,4 +143,5 @@ nav{
 	overflow: hidden;
 	font-size: 1.25em;
 	width: 100%;
+
 }
