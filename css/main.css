@@ -81,7 +81,7 @@ p{
 	font-size: 1em;
 	color: black;
 	font-style: normal;
-	padding: 1em 0.5em;
+	padding: 0.5em;
 }
 
 .one{
@@ -111,18 +111,19 @@ p{
 .description{
 	color: black;
 	padding: 0 0.25em;
+	margin-top: 2em;
 }
 
 .description-white{
 	color: white;
 	padding: 0 0.25em;
+	margin-top: 2em;
 }
 
 img{
 	margin: 0 auto;
 	width: 49.2%;
 	display: inline;
-	margin-bottom: 1em;
 }
 
 .no-image{
