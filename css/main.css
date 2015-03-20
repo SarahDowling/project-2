@@ -55,7 +55,7 @@ header i{
 }
 
 h3{
-	padding: 0.5em 1em 1.5em 1em;
+	padding: 0.5em 1em 1em 1em;
 	font-size: 1.5em;
 }
 
@@ -82,7 +82,7 @@ p{
 	font-size: 1em;
 	color: black;
 	font-style: normal;
-	padding: 1em 0.5em;
+	padding: 1.5em 0.5em;
 }
 
 .one{
@@ -92,7 +92,7 @@ p{
 }
 
 .two{
-	background-color: black;
+	background-color: #222;
 	margin:0;
 	padding: 1em 0.5em;
 }
@@ -112,13 +112,17 @@ p{
 .description{
 	color: black;
 	padding: 0 0.25em;
-	margin-top: 2em;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	font-size: 0.9em
 }
 
 .description-white{
 	color: white;
 	padding: 0 0.25em;
-	margin-top: 2em;
+	margin-top: 1em;
+	margin-bottom: 0.5em;
+	font-size: 0.9em
 }
 
 img{
@@ -144,10 +148,11 @@ img{
 
 .underline{
 	text-decoration: underline;
+	font-size: 1.25em
 }
 
 footer{
-	background-color: black;
+	background-color: #222;
 	font-size: 0.75em
 }
 
