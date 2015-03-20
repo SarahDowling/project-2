@@ -40,10 +40,11 @@ h2{
 	position: relative;
 }
 
-header p{
+header i{
 	font-size: 3em;
 	font-weight: bold;
 	font-style: normal;
+	display: block;
 }
 
 .position-head{
