@@ -83,7 +83,7 @@ p{
 	color: black;
 	font-style: normal;
 	padding: 1.5em 0.5em;
-		line-height: 1.em
+	line-height: 1.5 em
 }
 
 .one{
@@ -116,6 +116,7 @@ p{
 	margin-top: 1em;
 	margin-bottom: 0.5em;
 	font-size: 0.9rem;
+	line-height: 1.5em;
 }
 
 .description-white{
@@ -124,6 +125,7 @@ p{
 	margin-top: 1em;
 	margin-bottom: 0.5em;
 	font-size: 0.8rem;
+	line-height: 1.5em;
 }
 
 img{
